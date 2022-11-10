@@ -1,0 +1,32 @@
+body{
+   
+    font-family: 'roboto', sans-serif;
+    background-size: cover;
+    background-position: center;
+    background-image: url(galicia.png);
+    background-repeat: no-repeat;
+    text-align: center;
+  
+    
+    
+    
+}
+
+ h2,¨{
+    text-align: right;
+    color: rgb(255, 255, 255);
+    
+    
+}
+div h1{
+    text-align: center;
+    color: black;
+}
+
+a {
+    font-family: "roboto", sans-serif;
+    color: rgb(255, 255, 255);
+    
+    
+
+}
